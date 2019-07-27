@@ -71,4 +71,3 @@ Usage 2:
         | legit-init - untracked
         | legit-rm - untracked
         | legit-status - untracked
-
