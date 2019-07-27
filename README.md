@@ -2,8 +2,6 @@ legit -- A simulation of a part of git.
 
 This tinny project is simulating the git, which store different versions of the files in the same directory.
 It has 7 functions, legit-init, legit-add, legit-commit, legit-show, legit-log, legit-status and legit-rm.
-
-
 Usage 1:
     $ ./legit-init
         Initialized empty legit repository in .legit
@@ -40,8 +38,6 @@ Usage 1:
         hello world
     $./legit-show 1:b
         hello world
-
-
 Usage 2:
     $ ./legit-init
         Initialized empty legit repository in .legit
