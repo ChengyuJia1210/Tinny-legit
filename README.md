@@ -4,7 +4,7 @@ This tinny project is simulating the git, which store different versions of the 
 It has 7 functions, legit-init, legit-add, legit-commit, legit-show, legit-log, legit-status and legit-rm.
 
 
-Using:
+Usage 1:
     $ ./legit-init
         Initialized empty legit repository in .legit
         echo line 1 > a
@@ -42,6 +42,7 @@ Using:
         hello world
 
 
+Usage 2:
     $ ./legit-init
         Initialized empty legit repository in .legit
         touch a b c d e f g h
